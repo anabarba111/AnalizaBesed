@@ -1,3 +1,3 @@
 # AnalizaBesed
-Repozitorij z programom za analizo besed.
-Avtor tega repozitorija je Prof. Marc.
+To je repozitorij za analizo besed, ki smo ga naredili na vajah.
+Avtorji tega repozitorija so študenti.
